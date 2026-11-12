@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Excel lock files
+~$*.xlsx
+
+# Temporary files
+*.tmp
