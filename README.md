@@ -2,7 +2,7 @@
 
 An Excel workbook demonstrating advanced formula-based HR analytics —
 headcount, salary analysis, hiring trends, and interactive filtering —
-built with dynamic array formulas and no pivot tables.
+built with dynamic array formulas and no pivot tables.![Interactive filter](05_interactive_filter.png)
 
 ## Sheets
 
